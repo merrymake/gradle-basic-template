@@ -1,0 +1,2 @@
+Files in the resources folder can be used with
+  Mist.replyFileToOrigin("resource.txt");
